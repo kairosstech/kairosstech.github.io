@@ -2,7 +2,7 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://kaiross.net</homePageLink>
+		<homePageLink>https://kairosstech.github.io</homePageLink>
 		<apis>
 			<api name="WordPress" blogID="1" preferred="true" apiLink="https://kaiross.net/xmlrpc.php" />
 			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://kaiross.net/xmlrpc.php" />
